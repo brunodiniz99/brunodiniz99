@@ -49,7 +49,7 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
 
 **Version Control:**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
-[![GitHub](https://img.shields.io/badge/JasperReports-%20-gray&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+[![GitHub](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
 
 <!-- ![brunodiniz99's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodiniz99&show_icons=true&theme=dark)
 
