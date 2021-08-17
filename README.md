@@ -35,11 +35,10 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
   [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   
-  ### Learning
-  
-  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
-  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  ### Learning<sup>*</sup>
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![NodeJS](https://img.shields.io/badge/-Node.JS-lightgrey?logo=nodedotjs&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
 
 ### Tools
 
