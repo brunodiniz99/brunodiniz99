@@ -38,7 +38,9 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
   ### Learning<sup>*</sup>
   [![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![NodeJS](https://img.shields.io/badge/-Node.JS-black?logo=nodedotjs&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![NextJS](https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+
 
 ### Tools
 
