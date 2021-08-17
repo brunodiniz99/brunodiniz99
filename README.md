@@ -4,14 +4,11 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software Engineering student** 🚀 fro
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
-
+- 👨🏽‍💻 I’m currently working at Intesis Tecnology.
+- 🌱 I’m currently exploring world of Front-End with a big interest in be a fullstack.
+- 🤔 My interests are work with java or javascript.
+- 💼 I’m pursuing a Bachelor's degree in Computer Science doing last semester.
+- 📫 Email me at [brunodiniz99@gmail.com](mailto:brunodiniz99@gmail.com).
 
 ### 💻:keyboard: Languages and Tools 
 
@@ -27,12 +24,12 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software Engineering student** 🚀 fro
   [![REST](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/brunodiniz99/Java-Web-Developer)](https://github.com/brunodiniz99/Java-Web-Developer)
 
   **JavaScript**: 
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/brunodiniz99/Front-End-Dev)](https://github.com/brunodiniz99/Front-End-Dev)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/brunodiniz99/Front-End-Dev)](https://github.com/brunodiniz99/Front-End-Dev) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/brunodiniz99/Front-End-Dev)](https://github.com/brunodiniz99/Front-End-Dev) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/brunodiniz99/Front-End-Dev)](https://github.com/brunodiniz99/Front-End-Dev) 
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
 
   **SQL:**
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
@@ -53,11 +50,4 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software Engineering student** 🚀 fro
 **Version Control:**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
-
-![brunodiniz99's github stats](https://github-readme-stats.vercel.app/api?username=brunodiniz99&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodiniz99&layout=compact&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodiniz99&layout=compact)](https://github.com/brunodiniz99/github-readme-stats)
-
-
 ---
