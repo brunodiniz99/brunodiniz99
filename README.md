@@ -1,5 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Bruno!</h3>
-Hi there, I'm **Bruno Diniz Souza**, a **Software Engineering student** 🚀 from Limeira-SP, Brazil.
+Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP, Brazil.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
 **About Me!**
