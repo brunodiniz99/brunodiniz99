@@ -25,12 +25,18 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
   **JavaScript**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
 
   **SQL:**
+  [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  
+  ### Learning
+  
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
