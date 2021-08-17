@@ -50,4 +50,7 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
 **Version Control:**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodiniz99&layout=compact)](https://github.com/brunodiniz99/github-readme-stats)
+
 ---
