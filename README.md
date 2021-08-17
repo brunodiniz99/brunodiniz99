@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Bruno!</h3>
 Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP, Brazil.
-</br>
+<br>
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working at Intesis Tecnology.
