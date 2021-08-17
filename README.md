@@ -42,13 +42,14 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/brunodiniz99 "NetBeans IDE")](https://github.com/brunodiniz99)
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/brunodiniz99 "IntelliJ IDEA")](https://github.com/brunodiniz99)
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/brunodiniz99 "Visual Studio")](https://github.com/brunodiniz99)
+[![Jasper Reports](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/brunodiniz99 "Visual Studio")](https://github.com/brunodiniz99)
 
 **Software Engineering:**
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
 
 **Version Control:**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+[![GitHub](https://img.shields.io/badge/JasperReports-%20-gray&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
 
 <!-- ![brunodiniz99's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodiniz99&show_icons=true&theme=dark)
 
