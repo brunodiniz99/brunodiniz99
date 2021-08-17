@@ -15,13 +15,13 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software Engineering student** 🚀 fro
 ### Languages<sup>*</sup>
 
   **Java**: 
-  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/brunodiniz99/OOP-JAVA-and-Android-App-Developer)](https://github.com/brunodiniz99/OOP-JAVA-and-Android-App-Developer) 
-  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/brunodiniz99/Java-Web-Developer)](https://github.com/brunodiniz99/Java-Web-Developer)
-  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/brunodiniz99/Java-Web-Developer)](https://github.com/brunodiniz99/Java-Web-Developer)
-  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/brunodiniz99/Java-Web-Developer)](https://github.com/brunodiniz99/Java-Web-Developer) 
-  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/brunodiniz99/Java-Web-Developer)
-  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/brunodiniz99/Java-Web-Developer)](https://github.com/brunodiniz99/Java-Web-Developer)
-  [![REST](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/brunodiniz99/Java-Web-Developer)](https://github.com/brunodiniz99/Java-Web-Developer)
+  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
+  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
+  [![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
+  [![REST](https://img.shields.io/badge/REST-API-lightblue?style=flat&logo=rest-api&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
 
   **JavaScript**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
