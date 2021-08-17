@@ -42,7 +42,7 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/brunodiniz99 "NetBeans IDE")](https://github.com/brunodiniz99)
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/brunodiniz99 "IntelliJ IDEA")](https://github.com/brunodiniz99)
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/brunodiniz99 "Visual Studio")](https://github.com/brunodiniz99)
-[![Jasper Reports](https://img.shields.io/badge/JasperReports-%20-gray](https://github.com/brunodiniz99)
+[![Jasper Reports](https://img.shields.io/badge/JasperReports-%20-gray&link=https://github.com/brunodiniz99 "Jasper")](https://github.com/brunodiniz99)
 
 **Software Engineering:**
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
