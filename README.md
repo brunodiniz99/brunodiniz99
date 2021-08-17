@@ -51,10 +51,10 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software Engineering student** 🚀 fro
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
 
 **Version Control:**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/brunodiniz99) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brunodiniz99)](https://github.com/brunodiniz99)
 <hr>
-![brunodiniz99's github stats](https://github-readme-stats.vercel.app/api?username=brunodiniz99&show_icons=true&theme=dark)
+[![brunodiniz99's github stats](https://github-readme-stats.vercel.app/api?username=brunodiniz99&show_icons=true&theme=dark)](https://github.com/brunodiniz99) 
 <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodiniz99&layout=compact&theme=dracula)](https://github.com/brunodiniz99/github-readme-stats)
 
