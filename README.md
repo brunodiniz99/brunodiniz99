@@ -3,7 +3,7 @@ Hi there, I'm **Bruno Diniz Souza**, a **Software student** 🚀 from Limeira-SP
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working at Intesis Tecnology.
+- 👨🏽‍💻 I’m currently looking for a job.
 - 🌱 I’m currently exploring world of Front-End with a big interest in be a fullstack.
 - 🤔 My interests are work with java or javascript.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science doing last semester.
